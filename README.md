@@ -1,2 +1,12 @@
-# bluebunch
-Evaluating Bluebunch Wheatgrass for Functional Traits Master's Thesis
+# Bluebunch
+### Evaluating Bluebunch Wheatgrass Plant Materials for the Central Great Basin and Range
+#### Master's Thesis - Utah State University
+[Manuscript](https://digitalcommons.usu.edu/etd2023/285)
+## Published Abstract 
+Bluebunch wheatgrass is a perennial grass from North America’s Intermountain West. This area has faced many ecological disturbances, including dryland farming, wildfire, and grazing. These have led to a decline in the populations of native perennial grasses. While bluebunch used to be widespread throughout the region, it often cannot compete with some non-native grasses that are better adapted to these disturbances. Therefore, there is a demand for bluebunch wheatgrass plant materials that have undergone selection for overall better performance in restoration.
+
+Most existing plant materials for bluebunch wheatgrass come from the Columbia Plateau region, but interest is growing in new plant materials originating from the Basin and Range region because they might be better suited to the local environment. Two new materials called BasinSTZ3a and BasinSTZ4 are currently being developed. They have shown equal or better performance compared to existing materials in controlled garden settings, but they have not before been thoroughly tested in a greenhouse or a natural setting.
+
+I conducted studies to compare the performance of five bluebunch wheatgrass populations: two from the Basin & Range (BasinSTZ3a and BasinSTZ4) and three previously released materials (Anatone, Columbia, and P-7). The greenhouse study results indicate that BasinSTZ4 exhibited traits related to a slower growth strategy, while BastinSTZ3a had traits that resembled those of previous releases with higher tiller numbers and a somewhat faster growth strategy. BasinSTZ3a had slightly more vigorous growth and tiller production than BastinSTZ4, and may be suited to warm STZ 3a sites with invasive annuals. The outplanting study, repeated for two years, had limited results in the first year because most seedlings did not survive. In the second year, with more precipitation, early results suggest that BasinSTZ4 performed worse than all other populations at one of the four study sites (whereas there were no differences among populations at the other three sites). This supported my expectation that BasinSTZ3a would perform better due to its history in similar conditions. A better understanding of the performance of these plant materials could help determine where they may be most successful in plantings and guide their future development for the Basin and Range. 
+
+###### Contributers: Kari Veblen, Utah State University; Tom Monaco, USDA ARS; Blair Waldron, USDA ARS
