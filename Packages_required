@@ -1,5 +1,5 @@
 ## R packages required
-lme4==1.1.34
-DHARMa==0.4.6
-emmeans==1.8.8
-glmmTMB==1.1.7
+install.packages("lme4") 
+install.packages("DHARMa")
+install.packages("emmeans")
+install.packages("glmmTMB")
